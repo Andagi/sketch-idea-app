@@ -17,6 +17,7 @@
 **1.How would you describe the inputs of your app?**
 _What goes in? What data does your app take in from the user, if any? Will it get data from a databse or from a third-party service?_
 • Strings (Word Prompts)
+
 • Images (from camera, photos & screenshots)
 • String to identify Images
 • Clicking arrows (for scrolling)
