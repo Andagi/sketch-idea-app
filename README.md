@@ -16,8 +16,8 @@
 
 **1.How would you describe the inputs of your app?**
 _What goes in? What data does your app take in from the user, if any? Will it get data from a databse or from a third-party service?_
-• Strings (Word Prompts)
 
+• Strings (Word Prompts)
 • Images (from camera, photos & screenshots)
 • String to identify Images
 • Clicking arrows (for scrolling)
@@ -26,6 +26,7 @@ _What goes in? What data does your app take in from the user, if any? Will it ge
 
 **2.How would you describe the outputs or possible outcomes of your app?**
 _Based on those inputs, what does the app display to the user? What are some of the outcomes or results that your app produces based on how the user interacts with it?_
+
 • Recall & Display strings or images taken from user
 • Scroll through images and string database
 • Display all Images or Strings as thumbnails from database
@@ -36,6 +37,7 @@ _What does the computer need to remember between when the user starts the app an
 
 **4.What data needs to be stored permanently, if any?**
 _Which pieces of information need to be saved even after the user closes the app, so they can get it back later on? (In other words, what would you save in a database?)_
+
 • Strings
 • Images
 • Image Names
@@ -43,9 +45,11 @@ _Which pieces of information need to be saved even after the user closes the app
 
 **5.Which kinds of data types are these inputs/variables?**
 _Are they strings of text? Numbers? Boolean values (true or false)?_
+
 • Strings of Text
 
 **6.What events would you need to listen for with JavaScript?**
+
 • Click
 • onmouseover
 • Ondrag
@@ -53,6 +57,7 @@ _Are they strings of text? Numbers? Boolean values (true or false)?_
 • Ondragenter
 
 **7.Will your app need to respond to button clicks? Will it respond directly to pressing keys on the keyboard? Scrolling up or down on the page? Microphone or webcam usage? Something else**
+
 • When the user wants to scroll or choose an image to display, they will click on the webpage
 • When prompted with a text box, the user will enter letters from their keyboard
 • The user will scroll down the list of images/strings
