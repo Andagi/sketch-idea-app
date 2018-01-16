@@ -3,8 +3,38 @@ h1 {
   text-align: center;
 }
 
+h3 {
+  text-align: center;
+}
+
 p { 
   text-align: center;
 }
 
+.menu {
+  text-align: center
+}
 
+.viewexisting {
+  display: inline-block;
+	position: relative;
+  width: 100px;
+	text-align: center;
+	margin: 10px auto
+	}
+
+.additems {
+  display: inline-block;
+	position: relative;
+  width: 100px;
+	text-align: center;
+	margin: 10px auto;
+	}
+
+.phototake {
+  display: inline-block;
+	position: relative;
+  width: 100px;
+	text-align: center;
+	margin: 10px auto;
+	}
