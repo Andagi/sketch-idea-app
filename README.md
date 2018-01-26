@@ -6,12 +6,12 @@ https://sketchapp-idea.glitch.me
 
 
 *Data Input
-••* Strings (Word Prompts)
-••* Images (from camera, photos & screenshots)
-••* String to identify Images
-••* Clicking arrows (for scrolling)
-••* Clicking image (to make arrows disappear)
-••* Clicking image (to make arrows appear)
+⋅⋅* Strings (Word Prompts)
+⋅⋅* Images (from camera, photos & screenshots)
+⋅⋅* String to identify Images
+⋅⋅* Clicking arrows (for scrolling)
+⋅⋅* Clicking image (to make arrows disappear)
+⋅⋅* Clicking image (to make arrows appear)
 
 **2.How would you describe the outputs or possible outcomes of your app?**
 _Based on those inputs, what does the app display to the user? What are some of the outcomes or results that your app produces based on how the user interacts with it?_
