@@ -6,44 +6,36 @@ https://sketchapp-idea.glitch.me
 
 
 #### User Inputs:
-* Strings (Word Prompts)
-* Images (from camera, photos & screenshots)
-* String to identify Images
+* Sketch Idea Word Prompts (strings)
 * Clicking arrows (for scrolling)
 * Clicking image (to make arrows disappear)
 * Clicking image (to make arrows appear)
 
 #### Output Results:
-* Recall & Display strings or images taken from user
-* Scroll through images and string database
-* Display all Images or Strings as thumbnails from database
+* Recall & Display strings taken from user
+* Scroll through string database
+• Display random strings
 
-**3.What would you store as variables in your JavaScript file for the first prototype of your app?** 
-_What does the computer need to remember between when the user starts the app and when they close the page?_
-* The image being displayed, the prior one and the one that will be displayed after scrolling.
+#### Session Memory:
+* Current String
+* Next Random String to display
+* String already displayed (so it won't display again)
 
-**4.What data needs to be stored permanently, if any?**
-_Which pieces of information need to be saved even after the user closes the app, so they can get it back later on? (In other words, what would you save in a database?)_
+#### Database Storage:
+* String List
+• String List Order
 
-* Strings
-* Images
-* Image Names
-* String and Image order
-
-**5.Which kinds of data types are these inputs/variables?**
-_Are they strings of text? Numbers? Boolean values (true or false)?_
-
+#### Data Types
 * Strings of Text
 
-**6.What events would you need to listen for with JavaScript?**
-
+#### Event Listeners
 * Click
 * onmouseover
 * Ondrag
 * Ondragend
 * Ondragenter
 
-**7.Will your app need to respond to button clicks? Will it respond directly to pressing keys on the keyboard? Scrolling up or down on the page? Microphone or webcam usage? Something else**
+#### Will your app need to respond to button clicks? Will it respond directly to pressing keys on the keyboard? Scrolling up or down on the page? Microphone or webcam usage? Something else...?
 
 * When the user wants to scroll or choose an image to display, they will click on the webpage
 * When prompted with a text box, the user will enter letters from their keyboard
