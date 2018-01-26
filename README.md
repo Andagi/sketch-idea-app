@@ -4,6 +4,7 @@
 
 https://sketchapp-idea.glitch.me
 
+---
 
 #### User Inputs:
 * Sketch Idea Word Prompts (strings)
