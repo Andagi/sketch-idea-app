@@ -41,7 +41,7 @@ https://sketchapp-idea.glitch.me
 * When prompted with a text box, the user will enter letters from their keyboard
 * The user will scroll down the list of images/strings
 
-
+---
 
 **User Stories**
 1. As an art major, I want to scroll my pre-made list of brainstormed prompts for my final art project so that I can pick the best one for my final.
