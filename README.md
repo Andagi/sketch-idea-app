@@ -5,7 +5,7 @@
 https://sketchapp-idea.glitch.me
 
 
-*Data Input
+#### User Inputs:
 * Strings (Word Prompts)
 * Images (from camera, photos & screenshots)
 * String to identify Images
