@@ -9,13 +9,11 @@ https://sketchapp-idea.glitch.me
 #### User Inputs:
 * Sketch Idea Word Prompts (strings)
 * Clicking arrows (for scrolling)
-* Clicking image (to make arrows disappear)
-* Clicking image (to make arrows appear)
 
 #### Output Results:
 * Recall & Display strings taken from user
 * Scroll through string database
-• Display random strings
+* Display random strings
 
 #### Session Memory:
 * Current String
@@ -24,7 +22,7 @@ https://sketchapp-idea.glitch.me
 
 #### Database Storage:
 * String List
-• String List Order
+* String List Order
 
 #### Data Types
 * Strings of Text
@@ -32,9 +30,6 @@ https://sketchapp-idea.glitch.me
 #### Event Listeners
 * Click
 * onmouseover
-* Ondrag
-* Ondragend
-* Ondragenter
 
 #### Will your app need to respond to button clicks? Will it respond directly to pressing keys on the keyboard? Scrolling up or down on the page? Microphone or webcam usage? Something else...?
 
