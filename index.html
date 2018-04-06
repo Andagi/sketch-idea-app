@@ -6,32 +6,51 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/styles.css">
+    <script src="https://www.gstatic.com/firebasejs/4.8.2/firebase.js" defer></script>
     <script src="/script.js" defer></script>
   </head>
   <body>
+    <p id="username">
+    </p>
+    <p id="userinfo">
+      Not Currently Logged In.
+    </p>
+    <button id="login">
+      Log in with Github
+    </button>
+    <button id="logout">
+      Log Out
+    </button>
+      
+    <br />
     <h1>Start Drawing!</h1>
     <h3> And... Go!</h3>
     <div class="displaybox">
-      <div id="currentdisplay">
-        <p>
+        <p id="currentdisplay"> 
           Prompt #1 Here
         </p>
-      </div>
     </div>
     <div class="scrollsection">
+       <div id="random">
+        Random
+      </div>
+<!--    
+      "nice to have" Back button + Random Button
       <div id="arrowleft">
         &lt; Left
       </div>
       <div id="arrowright">
         Right &gt;
       </div>
+-->
     </div>
     <div class="inputarea">
       <input type="text" id="userinput">
       <button id="submit">Add to the mix</button>
     </div>
-    <div id="added">
-      This Area will display "Added" when a string is added to the database
+    <div>
+      <p id="added">
+      </p>
     </div>
   </body>
 </html>
