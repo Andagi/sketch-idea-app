@@ -10,19 +10,23 @@ h1 {
 
 .displaybox {
   text-align: center;
-  font-size: 4em; 
+  font-size: 4em;
+  overflow-wrap: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: #49345c;
   height: 400px;
   width: 700px;
+  padding: 0;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -40px;
+  margin-top: 0px;
   margin-bottom: 50px;
     
 }
 
 #currentdisplay {
-  line-height: 400px;
   color: #ffe6cc;
 	}
 
